@@ -1021,6 +1021,11 @@ video {
   --tw-ring-color: rgb(255 255 255 / var(--tw-ring-opacity));
 }
 
+.hover\:text-orange-500:hover {
+  --tw-text-opacity: 1;
+  color: rgb(249 115 22 / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px) {
   .md\:-left-\[30px\] {
     left: -30px;
